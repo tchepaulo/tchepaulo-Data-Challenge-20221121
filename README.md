@@ -26,15 +26,21 @@ Visualizar através dos dados das tabelas netflix_titles.csv e amazon_prime_titl
 
 # Methods
 Mesclar os 2 datasets.
+
 Filtros.
+
 Agrupamentos.
 
 
 # Technologies
 Python
+
 Pandas
+
 Groupby
+
 Merge
+
 Concat
 
 
